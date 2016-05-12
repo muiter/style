@@ -2,17 +2,18 @@
 
 
 **HOW TO INSTALL:**
-  1. make a directory (`mkdir style`) wherever you'd like (e.g. /Users/your.user.name.is.here/Developer/style)
+  1. go to your Developer folder (e.g. /Users/your.user.name.is.here/Developer/)
   2. clone this repo: `git clone https://github.com/muiter/style.git`
-  3. `npm install`
+  3. `cd style`
+  4. `npm install`
     1. if you got any errors place screen shot the terminal window and send em my way
     2. might be an issue with the node/npm verion you're using
-  4. `npm start`
-  5. you should see: webpack: bundle is now VALID.
+  5. `npm start`
+  6. you should see: webpack: bundle is now VALID.
     1. if you got any errors place screen shot the terminal window and send em my way
     2. might be an issue with the node_modules/ that were installed
-  6. go to the browser and visit http://localhost:3000/
-  7. VIOLA! cute favicon right?!
+  7. go to the browser and visit http://localhost:3000/
+  8. VIOLA! cute favicon right?!
 
 
 **HOW TO EDIT/ADD:**
