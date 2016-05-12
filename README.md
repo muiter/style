@@ -19,4 +19,4 @@
   1. open to project in your favorite text editor
   2. go the src/ folder
   3. open App.js
-  4. add whatever HTML elements you'd like inside the div (ideally below </Header>)
+  4. add whatever HTML elements you'd like inside the div (ideally below \<Header/>)
