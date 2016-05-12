@@ -2,9 +2,9 @@
 
 
 HOW TO INSTALL:
-1.  make a directory (mkdir style) wherever you'd like (e.g. /Users/your.user.name.is.here/Developer/style)
-2. clone this repo: git clone https://github.com/muiter/style.git
-3. npm install
+  1. make a directory (mkdir style) wherever you'd like (e.g. /Users/your.user.name.is.here/Developer/style)
+  2. clone this repo: git clone https://github.com/muiter/style.git
+  3. npm install
 ⋅⋅1. if you got any errors place screen shot the terminal window and send em my way
 ⋅⋅2. might be an issue with the node/npm verion you're using
 4. npm start
